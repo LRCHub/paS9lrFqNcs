@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Martyr",
+  "base_artist": "Takanashi Kiara",
+  "createdAt": "2026-02-08T06:30:17.829653Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Czar: Usurper/Escape/Martyr/Spiral",
+      "artist": "Mastodon",
+      "has_synced": true,
+      "path": "select/01_The_Czar__Usurper_Escape_Martyr_Spiral_Mastodon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seasick Martyr",
+      "artist": "Adorable",
+      "has_synced": false,
+      "path": "select/02_Seasick_Martyr_Adorable.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stigmata Martyr",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/03_Stigmata_Martyr_Bauhaus.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Martyr",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/04_Martyr_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Martyr",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/05_Martyr_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Martyr (Great Grey Owl Acoustic Remix-Edit)",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/06_Martyr_(Great_Grey_Owl_Acoustic_Remix-Edit)_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Martyr (Variation Mix)",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/07_Martyr_(Variation_Mix)_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stigmata Martyr - Live HP81",
+      "artist": "Bauhaus",
+      "has_synced": false,
+      "path": "select/08_Stigmata_Martyr_-_Live_HP81_Bauhaus.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Martyr of the Free Word",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/09_Martyr_of_the_Free_Word_Epica.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Young Martyr",
+      "artist": "Penumbra",
+      "has_synced": false,
+      "path": "select/10_The_Young_Martyr_Penumbra.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tartar Martyr",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/11_Tartar_Martyr_Pavement.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tartar Martyr (Peel Session 02/26/94)",
+      "artist": "Pavement",
+      "has_synced": false,
+      "path": "select/12_Tartar_Martyr_(Peel_Session_02_26_94)_Pavement.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Martyr",
+      "artist": "Fear Factory",
+      "has_synced": false,
+      "path": "select/13_Martyr_Fear_Factory.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Martyr (Remastered 2017)",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/14_The_Martyr_(Remastered_2017)_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Holy Martyr",
+      "artist": "Omen",
+      "has_synced": true,
+      "path": "select/15_Holy_Martyr_Omen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Pull Harder On the Strings of Your Martyr",
+      "artist": "Trivium",
+      "has_synced": true,
+      "path": "select/16_Pull_Harder_On_the_Strings_of_Your_Martyr_Trivium.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "SLAUGHTER THE MARTYR",
+      "artist": "Machine Head",
+      "has_synced": true,
+      "path": "select/17_SLAUGHTER_THE_MARTYR_Machine_Head.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Martyr",
+      "artist": "Takanashi Kiara",
+      "has_synced": false,
+      "path": "select/pl_01_Martyr_Takanashi_Kiara.txt"
+    }
+  ]
+}
